@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lobster', cursive;
+
+}
+
+body {
+    background-color: rgb(191, 130, 222);
+
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    margin: 20px 40px;
+    border-radius: 75%;
+    
+}
+
+ul li {
+    list-style: none;
+    font-size: 45px;
+    margin: 25px;
+    text-shadow: 1px 1px red;
+    
+}
+
+ul li a {
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    gap: 60px;
+
+}
+main {
+    background-image: url(../imag/inicio\ web.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: contain;
+    background-size: cover;
+    width: 98%;
+    height: 550px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    color: rgb(191, 130, 222) ;
+    font-size: 55px;
+    text-shadow: 3px 3px red;
+}
+
+
+h1 {
+    color: aliceblue;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 3px 3px red;
+    margin: 65px;
+    
+}
+
+
+p {
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    margin: 75px 75px;
+
+}
+
+img {
+   
+    margin: 25px;
+    width: 450px;
+    height: 400px;
+    justify-content: center;
+}
+
+footer.titulo {
+    color: aliceblue;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 3px 3px red;
+    margin: 65px;
+}
+
+.copy {
+    color: red;
+    font-size: 100%;
+}
+
+.logo {
+
+    display: flex;
+    justify-content: center;
+    width: 75px;
+    height: 75px;
+    font-size: 40px;
+}
+
+.texto {
+
+    color: aliceblue;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 3px 3px red;
+
+}
+
+
+
+
+
+
+  
+
+
+
+
+
+  
